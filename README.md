@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yassinekrika
 - 👀 I’m interested in web developpement
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on full stack
+- 💞️ I’m looking to collaborate ##
 - 📫 How to reach me faster
 
 <!---
