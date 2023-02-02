@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💻 My goal is to get dive deep into web development
-- 💻 Upsest with learning new web technologies such as :
+- 💻 Obsessed with learning new web technologies such as :
 - *****`Next.js 13`*****
 - *****`Tailwind`*****
 - *****`Prisma`*****
