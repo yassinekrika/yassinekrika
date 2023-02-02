@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yassinekrika
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💻 My goal is to get dive deep into web development
+- 🌱 Exploring the MERN Stack
+- 💻 Diving deep in Backend Development
 - 💻 Obsessed with learning new web technologies such as :
 - *****`Next.js 13`*****
 - *****`Tailwind`*****
