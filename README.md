@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yassine KRIKA</h1>
 <h3 align="center">I’m interested in web development</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Exploring the **MERN** Stack
 
-- 💬 Ask me about **react, node js**
+- 💬 Ask me about **react, node js, express js, mongodb**
+
+- 💻 Diving deep in Backend Development
 
 - 📫 How to reach me **yassinekrika2016@gmail.com**
+
+- 💻 Obsessed with learning new web technologies such as :
+
+- *****`Next.js 13`*****
+- *****`Tailwind`*****
+- *****`Prisma`*****
+- *****`Postgresql`*****
+- *****`Typescript`*****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
