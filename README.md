@@ -84,9 +84,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yassinekrika/yassinekrika/output/snake.svg" alt="Snake animation" />
-
-###
