@@ -71,9 +71,6 @@
   <a href="https://web.facebook.com/yassinekrika01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqsPqpTKccpWBkbNcXhMSTGfkPDxHhfJFqgfChJHsTqXxkHVnjcbpHwclhQpncvwBpdfL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
