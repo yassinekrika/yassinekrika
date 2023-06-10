@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine KRIKA</h1>
-<h3 align="center">I’m interested in web development</h3>
+<h3 align="center">I’m interested in full stack development</h3>
 
 - 🌱 Exploring the **MERN** Stack
 
