@@ -2,7 +2,9 @@
 <h3 align="center">I'm a full stack developer who loves the MERN stack and learning new web technologies.</h3>
 
 - 💬 Ask me about react, node js, express js, mongodb
+
 - 📫 Reach me at yassinekrika2016@gmail.com
+
 - 🚀 Interested in *****`Next.js 13`***** *****`Tailwind`***** *****`Prisma`***** *****`Postgresql`***** *****`Typescript`*****
 ###
 
