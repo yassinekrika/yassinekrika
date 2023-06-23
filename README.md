@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">I'm a full stack developer who loves the MERN stack and learning new web technologies.</h3>
+<h3 align="center">I'm a full stack developer who loves learning new web technologies.</h3>
 
-- 💬 Ask me about react, node js, express js, mongodb
+I use a full-stack web development framework that combines a popular front-end library *****`React`***** , a fast and scalable back-end environment *****`Node Js`***** , various relational and non-relational databases*****`Mysql | Mongodb`*****, a hybrid static and server rendering solution *****`Next.js 13`*****, a modern utility-first CSS framework*****`Tailwind | Bootstrap`*****, a next-generation ORM *****`Prisma`***** tool and a strongly typed programming language *****`TypeScript`*****.
 
-- 📫 Reach me at yassinekrika2016@gmail.com
-
-- 🚀 Interested in *****`Next.js 13`***** *****`Tailwind`***** *****`Prisma`***** *****`Postgresql`***** *****`Typescript`*****
 ###
 
 <div align="center">
