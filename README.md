@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I use a full-stack web development framework that combines a popular front-end library *****`React`***** , a fast and scalable back-end environment *****`Node Js`***** , various relational and non-relational databases *****`Mysql | Mongodb`*****, a hybrid static and server rendering solution *****`Next.js 13`*****, a modern utility-first CSS framework *****`Tailwind | Bootstrap`***** , a next-generation ORM *****`Prisma`***** tool and a strongly typed programming language *****`TypeScript`*****.
 
