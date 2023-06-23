@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">I’m interested in full stack development</h3>
+<h3 align="center">I'm a full stack developer who loves the MERN stack and learning new web technologies.</h3>
 
-- 🌱 Exploring the **MERN** Stack
-
-- 💬 Ask me about **react, node js, express js, mongodb**
-
-- 💻 Diving deep in Backend Development
-
-- 📫 How to reach me **yassinekrika2016@gmail.com**
-
-- 💻 Obsessed with learning new web technologies such as :
-
-- *****`Next.js 13`*****
-- *****`Tailwind`*****
-- *****`Prisma`*****
-- *****`Postgresql`*****
-- *****`Typescript`*****
+- 💬 Ask me about react, node js, express js, mongodb
+- 📫 Reach me at yassinekrika2016@gmail.com
+- 🚀 Interested in *****`Next.js 13`***** *****`Tailwind`***** *****`Prisma`***** *****`Postgresql`***** *****`Typescript`*****
 ###
 
 <div align="center">
