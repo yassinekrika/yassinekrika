@@ -57,8 +57,8 @@ I use a full-stack web development framework that combines a popular front-end l
   <a href="https://www.linkedin.com/in/yassine-krika-791193205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://web.facebook.com/yassinekrika01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  <a href="https://dribbble.com/krikayassine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dribbble logo"  />
   </a>
   <a href="https://twitter.com/KrikaYassine" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
