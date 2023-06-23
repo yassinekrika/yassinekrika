@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 <div  align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=248&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=242&lines=Full+Stack+Developer;Web+Development;App+Development;Ui+Figma+Design" alt="Typing SVG" /></a>
 </div>
 
 I use a full-stack web development framework that combines a popular front-end library *****`React`***** , a fast and scalable back-end environment *****`Node Js`***** , various relational and non-relational databases *****`Mysql | Mongodb`*****, a hybrid static and server rendering solution *****`Next.js 13`*****, a modern utility-first CSS framework *****`Tailwind | Bootstrap`***** , a next-generation ORM *****`Prisma`***** tool and a strongly typed programming language *****`TypeScript`*****.
