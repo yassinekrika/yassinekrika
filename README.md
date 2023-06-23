@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 <h3 align="center">I'm a full stack developer who loves learning new web technologies.</h3>
 
-I use a full-stack web development framework that combines a popular front-end library *****`React`***** , a fast and scalable back-end environment *****`Node Js`***** , various relational and non-relational databases*****`Mysql | Mongodb`*****, a hybrid static and server rendering solution *****`Next.js 13`*****, a modern utility-first CSS framework*****`Tailwind | Bootstrap`*****, a next-generation ORM *****`Prisma`***** tool and a strongly typed programming language *****`TypeScript`*****.
+I use a full-stack web development framework that combines a popular front-end library *****`React`***** , a fast and scalable back-end environment *****`Node Js`***** , various relational and non-relational databases *****`Mysql | Mongodb`*****, a hybrid static and server rendering solution *****`Next.js 13`*****, a modern utility-first CSS framework*****`Tailwind | Bootstrap`*****, a next-generation ORM *****`Prisma`***** tool and a strongly typed programming language *****`TypeScript`*****.
 
 ###
 
