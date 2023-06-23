@@ -12,7 +12,7 @@ I use a full-stack web development framework that combines a popular front-end l
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinekrika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Tech Stack
+> Tech Stack
 
 <img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
