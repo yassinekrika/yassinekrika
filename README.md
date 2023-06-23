@@ -45,7 +45,7 @@ I use a full-stack web development framework that combines a popular front-end l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
 </div>
 
-### Social 
+> Social 
 
 <div align="left">
   <a href="https://instagram.com/yassinekrika_" target="_blank">
