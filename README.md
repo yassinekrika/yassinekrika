@@ -31,7 +31,7 @@ I use a full-stack web development framework that combines a popular front-end l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
-  <img src="https://o.remove.bg/downloads/09edb40c-7617-4d34-ae28-56a4c4a88ae9/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-removebg-preview.png" height="50" width="auto" alt="nextjs logo"  />
+  <img src="https://o.remove.bg/downloads/09edb40c-7617-4d34-ae28-56a4c4a88ae9/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-removebg-preview.png" height="50" width="auto" alt="nextjs logo"  style="width: 62px; height: 50px; object-fit: cover;" />
   <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="50" width="50" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="62" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="62" alt="postgresql logo"  />
