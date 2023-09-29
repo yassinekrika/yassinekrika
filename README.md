@@ -30,7 +30,7 @@ I use a full-stack web development framework that combines a popular front-end l
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="62" height="62"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="62" alt="express logo"  />
   <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="50" width="50" alt="nextjs logo"  />
