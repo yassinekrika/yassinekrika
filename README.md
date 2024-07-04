@@ -49,24 +49,4 @@ I use a full-stack web development framework that combines a popular front-end f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" width="62" alt="numpy logo"  />
 </div>
 
-> Social 
-
-<div align="left">
-  <a href="https://instagram.com/yassinekrika_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/yassinekrika_#1639" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yassine-krika-791193205/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41.9" alt="linkedin logo"  />
-  </a>
-  <a href="https://dribbble.com/krikayassine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="dribbble logo"  />
-  </a>
-  <a href="https://twitter.com/KrikaYassine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="twitter logo"  />
-  </a>
-</div>
-
 ###
